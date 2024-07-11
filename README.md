@@ -1,4 +1,10 @@
-## Simpleis6est Profile
+## Profile: Simpleis6est💬
+- Embedded System Developer 🌱
+- languages: C /C++/ python
+- Tech stack
+  - AI inference
+  - Image Preprocessing
+  - MCU (ARM cortexM4)
 
 <!--
 **simpleis6est/simpleis6est** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
